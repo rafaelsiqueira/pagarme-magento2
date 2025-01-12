@@ -1,5 +1,5 @@
 {
-    "name": "pagarme/pagarme-magento2-module",
+    "name": "rafaelsiqueira/pagarme-magento2",
     "license": "MIT",
     "version": "2.6.1",
     "type": "magento2-module",
